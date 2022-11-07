@@ -1,0 +1,2 @@
+# StarWarsApi
+open index.html
